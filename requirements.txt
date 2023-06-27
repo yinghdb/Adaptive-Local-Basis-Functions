@@ -1,0 +1,11 @@
+pytorch==1.9.0
+pytorch_lightning
+setuptools==59.5.0
+pyrender
+trimesh
+joblib
+scikit-learn
+mesh_to_sdf
+plyfile
+yacs
+seaborn
